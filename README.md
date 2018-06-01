@@ -6,12 +6,8 @@ Long ago, long before your time, there was a planet called Earth. This game capt
 Once you open up The Battle for Earth, press space to start playing. The left arrow key will move you to the left, and the right arrow key will move you to the right. Press space to shoot the lasers from the laser blasters on your ship. Each enemy will take two lasers to kill, while your own ship takes three. Avoid all lasers if possible, and try your best to eliminate the alien invaders. Each time you shoot a laser, your score will decrease by ten points. Each time you land a hit on the alien fleet, your score will increase by a thousand points. Of course, try to get the highest score you can! If your ship is eliminated, you have lost the battle and Earth has been destroyed. If you somehow manage to overcome the odds and beat out the alien fleet, bathe in glory knowing that you saved Earth. Good luck!
 
 #### What does the start screen look like?
-'''Start Screen
-s = https://raw.githubusercontent.com/Loading-Username/Space_War_Website/master/Battle_for_Earth_Start_Screenshot.PNG
-print s
-'''
+Start Screen
+![alt_text](https://github.com/Loading-Username/Space_War_Website/blob/master/Gameplay_Screenshot.PNG)
 ### What does gameplay look like?
-'''Gameplay
-g = https://raw.githubusercontent.com/Loading-Username/Space_War_Website/master/Gameplay_Screenshot.PNG
-print g
-'''
+Gameplay
+![alt text](https://raw.githubusercontent.com/Loading-Username/Space_War_Website/master/Gameplay_Screenshot.PNG)
