@@ -7,7 +7,7 @@ Once you open up The Battle for Earth, press space to start playing. The left ar
 
 #### What does the start screen look like?
 Start Screen
-![alt_text](https://github.com/Loading-Username/Space_War_Website/blob/master/Gameplay_Screenshot.PNG)
+![alt_text](https://raw.githubusercontent.com/Loading-Username/Space_War_Website/master/Battle_for_Earth_Start_Screenshot.PNG)
 ### What does gameplay look like?
 Gameplay
 ![alt text](https://raw.githubusercontent.com/Loading-Username/Space_War_Website/master/Gameplay_Screenshot.PNG)
